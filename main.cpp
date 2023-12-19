@@ -6,7 +6,7 @@
 
 const int WIDTH = 750, HEIGHT = 980;
 const int MAX_PROJECTILES = 4;
-const int MAX_ENEMIES = 5; // Update this value according to your needs
+const int MAX_ENEMIES = 5; 
 
 struct Projectile
 {
